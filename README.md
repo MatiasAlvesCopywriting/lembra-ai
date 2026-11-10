@@ -2,7 +2,7 @@
 
 **Nunca mais esqueça um compromisso importante.**
 
-O Lembra Aí nasceu de uma necessidade simples: eu não conseguia lembrar dos exames sem muitos post-its colados na cozinha. A minha memória falhava, e o alarme comum do celular não foi pensado para mostrar a data do compromisso, o horário, ou o que você deve levar. Aqui é diferente: **o aviso toca como um alarme de verdade, em tela cheia, mesmo com o celular bloqueado.** E ele não avisa só uma vez: avisa com antecedência, para dar tempo de se preparar.
+O Lembra Aí nasceu de uma necessidade simples: eu e alguns parentes não conseguíamos nos lembrar de compromissos (exames, mecânico etc.) sem muitos post-its colados na cozinha. A minha memória falhava, e o alarme comum do celular não foi pensado para mostrar a data do compromisso, o horário, ou o que você deve levar. Aqui é diferente: **o aviso toca como um alarme de verdade, em tela cheia, mesmo com o celular bloqueado.** E ele não avisa só uma vez: avisa com antecedência, para dar tempo de se preparar.
 
 ## ✨ Funcionalidades
 
