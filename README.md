@@ -13,6 +13,13 @@ O Lembra Aí nasceu de uma necessidade simples: eu não conseguia lembrar dos ex
 - 🕓 Eventos que já passaram ficam marcados em cinza
 - 🚀 **Atualização automática:** o app avisa quando sai uma versão nova e instala com um toque
 
+<img width="305" height="678" alt="1" src="https://github.com/user-attachments/assets/4b7f2c8b-b6c9-4bec-81b7-11ee7df57109" />
+<img width="305" height="678" alt="2" src="https://github.com/user-attachments/assets/f6c8fbfc-cf80-4218-a3ff-8cf9aaf47649" />
+<img width="305" height="678" alt="3" src="https://github.com/user-attachments/assets/51aed838-8b19-48e3-972e-7f70b11d7125" />
+<img width="305" height="678" alt="4" src="https://github.com/user-attachments/assets/f2a91cfe-8e28-417a-a2b4-b41935ad3b00" />
+<img width="305" height="678" alt="5" src="https://github.com/user-attachments/assets/f8d6cdad-4366-4861-a5e8-08bb62ac5183" />
+<img width="305" height="678" alt="6" src="https://github.com/user-attachments/assets/dd87a80a-da45-4a72-8207-4c9e1d868c8e" />
+
 ## 📥 Como instalar
 
 > O Lembra Aí ainda não está na Play Store. A instalação é feita pelo arquivo APK.
