@@ -63,4 +63,4 @@ Distribuído sob a licença **MIT**. Veja o arquivo `LICENSE` para mais detalhes
 
 > "Um mago nunca se atrasa, nem se adianta. Ele chega exatamente à hora que pretende" (Gandalf)
 
-Feito por um aprendiz desse mago, **[Matias Alves](https://instagram.com/matiasalvescopywriting)**.
+Feito por um aprendiz desse mago, **[Matias Alves]([https://instagram.com/matiasalvescopywriting](https://www.instagram.com/matias_alves_copywriting/))**.
